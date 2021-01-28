@@ -1,0 +1,44 @@
+             ____________________A B O U T   U S_____________________ 
+            |                                                        |
+            |  ****************************************************  |
+            |  *                                                  *  |      
+            |  *                                                  *  |  
+            |  *          The Hotel Management Software           *  |
+            |  *                                                  *  |
+            |  *             Made By - Pattni Vishal              *  |
+            |  *                                                  *  |
+            |  *                                                  *  |
+            |  *   Language Used - C++                            *  |
+            |  *                                                  *  |
+            |  *                      _____                       *  | 
+            |  *                     |     |                      *  |
+            |  *              _____  |         ____   ©           *  |
+            |  *                |    |  ___   |    |              *  |
+            |  *                |    |     |  | --<               *  |
+            |  *                |    |_____|  |____|              *  |
+            |  *                                                  *  |
+            |  ****************************************************  |
+            |                                                        |
+            |     The Hotel Management Software you are using is an  |
+            |  ideal C++ program which uses most of basic concepts   |
+            |  of OOPS (Object Oriented Programming) ,i.e.,          |
+            |       1. Data Abstraction                              |
+            |       2. Data Encapsulation                            |
+            |       3. Modularity                                    |
+            |       4. Polymorphism                                  |
+            |                                                        |
+            |     The Software is fully based on the concepts of     |
+            |  Data File Handling.                                   |
+            |                                                        |
+            |                                                        |
+            |     The speciality of the software are :               |
+            |       1. it has Admin - User interface system in which |
+            |          Admin (Administrator) and User (Customer)     |
+            |          both can use it as per their need.            |
+            |       2. its Admin menu is encrypted with password     |
+            |                                                        |
+            |                                                        |
+            |   The above Hotel Management Software is subject to    |
+            |  COPYRIGHT © .(Its sale after changing the source code |
+            |  is a crime).                                          |
+             ________________________________________________________       
